@@ -1,0 +1,4 @@
+name: crismar-web
+recipe: lamp
+config:
+  webroot: .
